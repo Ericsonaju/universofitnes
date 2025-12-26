@@ -1,0 +1,7 @@
+{
+  "name": "GymFlow Manager",
+  "description": "A comprehensive gym management system for neighborhood gyms, featuring an owner dashboard, student self-registration, and a public landing page with WhatsApp integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
