@@ -5,14 +5,14 @@ export const INITIAL_SETTINGS: GymSettings = {
   name: "Universo Fitness",
   ownerName: "Viviane",
   whatsapp: "557930437610",
-  logoUrl: "./universo fitnes/universo.webp",
-  coverUrl: "./universo fitnes/2021-06-02.webp",
+  logoUrl: "/universo-fitness/universo.webp",
+  coverUrl: "/universo-fitness/2021-06-02.webp",
   aboutText: "A Universo Fitness é a sua casa em Aracaju. Localizada no coração do Inácio Barbosa, oferecemos infraestrutura de ponta com equipamentos Classic e Mirage, garantindo o melhor ambiente para sua musculação e funcional.",
   announcement: "🔥 MATRÍCULAS ABERTAS! Venha conhecer nossa unidade Inácio Barbosa.",
   openingHours: "Seg-Sex: 05:30 às 22:00 | Sáb: 08:00 às 13:00",
   trainers: [
-    { id: '1', name: 'Viviane', specialty: 'Proprietária & Gestão', photoUrl: './universo fitnes/2021-10-09 (1).webp' },
-    { id: '2', name: 'Time Universo', specialty: 'Musculação / Hipertrofia', photoUrl: './universo fitnes/unnamed (1).webp' }
+    { id: '1', name: 'Viviane', specialty: 'Proprietária & Gestão', photoUrl: '/universo-fitness/2021-10-09 (1).webp' },
+    { id: '2', name: 'Time Universo', specialty: 'Musculação / Hipertrofia', photoUrl: '/universo-fitness/unnamed (1).webp' }
   ],
   prompts: {
     welcome: "Olá {name}, seja muito bem-vindo(a) à Família Universo Fitness! 🏋️‍♂️ Cadastro ok! Sua mensalidade vence no dia {due_date}. #VemPraUniverso",

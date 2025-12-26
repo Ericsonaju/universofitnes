@@ -212,25 +212,25 @@ const LandingPage: React.FC<{ settings: GymSettings }> = ({ settings }) => {
 
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 xl:gap-6">
             <div className="aspect-square rounded-[2rem] overflow-hidden border border-zinc-800 group cursor-pointer hover:border-orange-500 transition-all duration-500">
-              <img src="./universo fitnes/2021-06-02.webp" alt="Área de Musculação" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
+              <img src="/universo-fitness/2021-06-02.webp" alt="Área de Musculação" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
             </div>
             <div className="aspect-square rounded-[2rem] overflow-hidden border border-zinc-800 group cursor-pointer hover:border-orange-500 transition-all duration-500">
-              <img src="./universo fitnes/2021-06-02 (1).webp" alt="Equipamentos" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
+              <img src="/universo-fitness/2021-06-02 (1).webp" alt="Equipamentos" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
             </div>
             <div className="aspect-square rounded-[2rem] overflow-hidden border border-zinc-800 group cursor-pointer hover:border-orange-500 transition-all duration-500">
-              <img src="./universo fitnes/2021-05-10.webp" alt="Espaço de Treino" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
+              <img src="/universo-fitness/2021-05-10.webp" alt="Espaço de Treino" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
             </div>
             <div className="aspect-square rounded-[2rem] overflow-hidden border border-zinc-800 group cursor-pointer hover:border-orange-500 transition-all duration-500">
-              <img src="./universo fitnes/unnamed.webp" alt="Academia Universo" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
+              <img src="/universo-fitness/unnamed.webp" alt="Academia Universo" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
             </div>
             <div className="aspect-square rounded-[2rem] overflow-hidden border border-zinc-800 group cursor-pointer hover:border-orange-500 transition-all duration-500 lg:col-span-2">
-              <img src="./universo fitnes/IMG_20200916_075029_904.webp" alt="Vista Geral" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
+              <img src="/universo-fitness/IMG_20200916_075029_904.webp" alt="Vista Geral" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
             </div>
             <div className="aspect-square rounded-[2rem] overflow-hidden border border-zinc-800 group cursor-pointer hover:border-orange-500 transition-all duration-500">
-              <img src="./universo fitnes/2021-10-09.webp" alt="Equipamentos Classic" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
+              <img src="/universo-fitness/2021-10-09.webp" alt="Equipamentos Classic" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
             </div>
             <div className="aspect-square rounded-[2rem] overflow-hidden border border-zinc-800 group cursor-pointer hover:border-orange-500 transition-all duration-500">
-              <img src="./universo fitnes/2022-11-11.webp" alt="Área de Treino" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
+              <img src="/universo-fitness/2022-11-11.webp" alt="Área de Treino" className="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700" />
             </div>
           </div>
         </div>
@@ -269,7 +269,7 @@ const LandingPage: React.FC<{ settings: GymSettings }> = ({ settings }) => {
 
           <div className="aspect-[4/5] rounded-[3rem] xl:rounded-[4rem] bg-zinc-900 border border-zinc-800 overflow-hidden shadow-3xl relative group hidden lg:block">
             <img
-              src="./universo fitnes/IMG_20200906_003557_949.webp"
+              src="/universo-fitness/IMG_20200906_003557_949.webp"
               alt="Fachada Universo Fitness"
               className="w-full h-full object-cover opacity-80 grayscale-[0.3] group-hover:grayscale-0 group-hover:scale-105 transition-all duration-1000"
             />
